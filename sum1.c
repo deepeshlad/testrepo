@@ -9,5 +9,6 @@ int main()
 	sub=num1-num2;
 	printf("The sum of %d and %d is %d", num1, num2, sum);
 	printf("The subtraction of % d and %d is %d", num1, num2, sub);
+	printf("Something has changed");
 	return 0;
 }
